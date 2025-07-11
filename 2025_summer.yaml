@@ -1,6 +1,10 @@
 team: MI_LAB
 
+<<<<<<< HEAD
 manager: ai
+=======
+manager: Minseok
+>>>>>>> minseok
 
 members:
 - Violet
